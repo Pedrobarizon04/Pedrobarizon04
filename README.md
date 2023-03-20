@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: >>> Ele-Dele
 - ⚡ Fun fact: >>> Posso fazer qualquer um rir.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-barizon-a77383264/)
+https://www.linkedin.com/in/pedro-barizon-a77383264/
 
 ## 🚀 About Me
 Sou um estudioso, adoro compartilhar ideias, pensamentos e conversar com as pesssoas.
