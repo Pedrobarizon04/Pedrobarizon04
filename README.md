@@ -23,7 +23,11 @@
 
 ###
 
-<p align="left">Tenho 20 anos, nasci no Brasil e amo tecnologia, marketing digital e empreendedorismo.<br><br>- 📚 No momento estou me aprofundando cada vez mais em React e Node<br>- ⚡ No tempo livro costumo ler e assistir bons filmes</p>
+<p align="left">Tenho 20 anos, nasci no Brasil e amo tecnologia, marketing digital e empreendedorismo.
+<br>
+<br> 📚 No momento estou me aprofundando cada vez mais em React e Node
+<br> ⚡ No tempo livro costumo ler e assistir bons filmes
+</p>
 
 ###
 
