@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack de 20 anos, apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web moderno e soluções com inteligência artificial, sempre buscando criar experiências digitais impactantes.
+<p align="left">Me chamo Pedro Barizon, tenho 20 anos, sou Desenvolvedor Full Stack e apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web moderno e soluções com inteligência artificial, sempre buscando criar experiências digitais impactantes.
 <br>
 <br>🚀 <strong>Expertise:</strong> Desenvolvimento web (React, TypeScript, PHP), projetos de IA com Python, tráfego pago (Meta Ads), SEO e otimização de performance para aplicações escaláveis.
 <br>
