@@ -55,6 +55,19 @@
 
 ###
 
+<h3 align="left">🔌 API & Microserviços</h3>
+
+###
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B35?style=flat&logo=microgenetics&logoColor=white" alt="Microservices" />
+</p>
+
+###
+
 <h3 align="left">🎨 Design</h3>
 
 ###
