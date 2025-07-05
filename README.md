@@ -19,14 +19,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">Tenho 20 anos, nasci no Brasil e amo tecnologia, marketing digital e empreendedorismo.
+<p align="left">Desenvolvedor Full Stack de 20 anos, apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web moderno e soluções com inteligência artificial, sempre buscando criar experiências digitais impactantes.
 <br>
-<br> 📚 No momento estou me aprofundando cada vez mais em React e Typescript
-<br> ⚡ No tempo livre costumo ler.
+<br>🚀 <strong>Expertise:</strong> Desenvolvimento web (React, TypeScript, PHP), projetos de IA com Python, tráfego pago (Meta Ads), SEO e otimização de performance para aplicações escaláveis.
+<br>
+<br>📚 <strong>Foco atual:</strong> Aprofundando conhecimentos em React, TypeScript, PHP e projetos inovadores com inteligência artificial.
+<br>
+<br>⚡ <strong>Além do código:</strong> Leitor ávido, gamer nas horas vagas, adoro sair com amigos e manter o corpo ativo com exercícios físicos.
 </p>
 
 ###
