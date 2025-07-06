@@ -25,11 +25,11 @@
 
 <p align="left">Me chamo Pedro Barizon, tenho 20 anos, sou Desenvolvedor Full Stack e apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web moderno e soluções com inteligência artificial.
 <br>
-<br>🚀 <strong>Expertise:</strong> Desenvolvimento web (React, TypeScript, PHP), projetos de IA com Python, tráfego pago (Meta Ads), SEO e otimização de performance para aplicações escaláveis.
+<br>🚀 <strong>Maio conhecimento em:</strong> Desenvolvimento web (React, TypeScript, PHP), projetos de IA com Python, tráfego pago (Meta Ads), SEO e otimização de performance para aplicações escaláveis.
 <br>
 <br>📚 <strong>Foco atual:</strong> Aprofundando conhecimentos em React, TypeScript, PHP e projetos inovadores com inteligência artificial.
 <br>
-<br>⚡ <strong>Além tecnologia:</strong> Gosto de ler bons livros, jogar nas horas vagas, sair com amigos e fazer atividades físicas.
+<br>⚡ <strong>Além das tecnologias:</strong> Gosto de ler bons livros, jogar nas horas vagas, sair com amigos e fazer atividades físicas.
 </p>
 
 ###
